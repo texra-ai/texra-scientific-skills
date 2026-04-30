@@ -1,0 +1,12 @@
+{
+  "name": "texra-scientific-skills",
+  "owner": { "name": "texra-ai" },
+  "plugins": [
+    {
+      "name": "texra-scientific-skills",
+      "description": "Agent skills for scientific writing, reviewing, figure work, and LaTeX manuscript craft",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

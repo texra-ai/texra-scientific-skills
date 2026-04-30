@@ -1,0 +1,9 @@
+{
+  "name": "texra-scientific-skills",
+  "description": "Agent skills for scientific writing, reviewing, figure work, and LaTeX manuscript craft",
+  "version": "0.1.0",
+  "author": { "name": "texra-ai" },
+  "repository": "https://github.com/texra-ai/texra-scientific-skills",
+  "license": "MIT",
+  "keywords": ["latex", "research", "writing", "manuscript", "review", "scientific", "tikz", "skills"]
+}
